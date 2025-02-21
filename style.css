@@ -1,0 +1,21 @@
+body {
+  background-color: #264ECA;
+}
+body h2 {
+  text-align: center;
+  color: white;
+  padding: 5rem;
+}
+body button {
+  width: 60%;
+  margin-left: 6rem;
+}
+body .form-check {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  gap: 5px;
+}

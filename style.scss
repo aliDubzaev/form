@@ -1,0 +1,17 @@
+body {
+  background-color: #264ECA;
+    h2 {
+      text-align: center;
+      color: white;
+      padding: 5rem;
+    }
+    button {
+      width: 60%;
+      margin-left: 6rem;
+    }
+    .form-check {
+      display: flex;
+      justify-content: flex-end;
+      gap: 5px;
+    }
+}
